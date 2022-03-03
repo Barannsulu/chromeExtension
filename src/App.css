@@ -1,0 +1,16 @@
+body {
+  background-color: lightslategray;
+}
+
+.App {
+  text-align: center;
+}
+
+h1 {
+  margin-top: 20rem;
+  font-size: 36px;
+}
+
+h3 {
+  font-size: 20px;
+}

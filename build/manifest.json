@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Vocabs",
+  "author": "Barannsulu",
+  "version": "0.1",
+  "description": "Replace your tabs with random English words",
+  "icons": {
+    "16": "darwinFav16.ico",
+    "48": "darwinFav48.ico",
+    "128": "darwinFav128.ico"
+  },
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
+}
